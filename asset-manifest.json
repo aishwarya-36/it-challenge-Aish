@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.c6da0432.css",
-    "main.js": "/static/js/main.3e16d47e.js",
-    "index.html": "/index.html",
-    "main.c6da0432.css.map": "/static/css/main.c6da0432.css.map",
-    "main.3e16d47e.js.map": "/static/js/main.3e16d47e.js.map"
+    "main.css": "/it-challenge-Aish/static/css/main.c6da0432.css",
+    "main.js": "/it-challenge-Aish/static/js/main.3e16d47e.js",
+    "index.html": "/it-challenge-Aish/index.html",
+    "main.c6da0432.css.map": "/it-challenge-Aish/static/css/main.c6da0432.css.map",
+    "main.3e16d47e.js.map": "/it-challenge-Aish/static/js/main.3e16d47e.js.map"
   },
   "entrypoints": [
     "static/css/main.c6da0432.css",
